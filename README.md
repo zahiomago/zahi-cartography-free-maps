@@ -7,7 +7,7 @@
 ## Project description
 <p>This is a module for Foundry VTT with the free maps that you can find on my Patreon.</p>
 <h4>
-    <a href="https://www.patreon.com/bePatron?u=31873025">Become a Patreon&color=F96854</a>
+    <a href="https://www.patreon.com/bePatron?u=31873025">Become a Patreon</a>
 </h4>
 
 <p align="center">
