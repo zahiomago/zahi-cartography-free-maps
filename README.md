@@ -12,7 +12,7 @@
 
 <h2>
 [<img src="https://img.shields.io/static/v1?label=Become&message=aPatreon&color=F96854&style=flat&logo=Zahi"/>](https://www.patreon.com/bePatron?u=31873025)
-</h2
+</h2>
 	
 <p align="center">
 	🚧 🚀 project in development...  🚧
