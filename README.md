@@ -1,4 +1,4 @@
-<img alt="Latest Release" src="https://img.shields.io/github/v/release/Jules-Bens-Aa/JB2A_DnD5e?color=7FB800">[![Patreon](https://img.shields.io/badge/Pledge-Patreon-red)](https://www.patreon.com/zahithemage)<img src="https://img.shields.io/static/v1?label=Status&message=InDevelopment&color=7159c1&style=flat&logo=Zahi"/><br>
+<img alt="Latest Release" src="https://img.shields.io/github/v/release/zahi-cartography-free-maps?color=7FB800">[![Patreon](https://img.shields.io/badge/Pledge-Patreon-red)](https://www.patreon.com/zahithemage)<img src="https://img.shields.io/static/v1?label=Status&message=InDevelopment&color=7159c1&style=flat&logo=Zahi"/><br>
 
 
 # Za'hi | Cartography - Free Maps
