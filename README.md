@@ -9,6 +9,7 @@
 <h4>
     <a href="https://www.patreon.com/bePatron?u=31873025">Become a Patreon</a>
 </h4>
+[<img src="https://img.shields.io/static/v1?label=&message=Become a Patreon&color=007BFC&style=flat&logo=Zahi"/>](https://www.patreon.com/bePatron?u=31873025)
 
 <p align="center">
 	🚧 🚀 project in development...  🚧
