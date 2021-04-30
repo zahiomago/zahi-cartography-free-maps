@@ -12,4 +12,4 @@ This is a module for Foundry VTT with the free maps that you can find on my Patr
 	🚧 🚀 project in development...  🚧
 </p>
 
-_Manifest:_<font color="red">https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json</font>
+###Manifest: <font color="red">https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json</font>
