@@ -12,5 +12,5 @@ This is a module for Foundry VTT with the free maps that you can find on my Patr
 	🚧 🚀 project in development...  🚧
 </p>
 
-[Manifest](https://img.shields.io/badge/•-Manifest-red)
+![Manifest](https://img.shields.io/badge/•-Manifest-red)
 <font color="red">Manifest:</font> https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json
