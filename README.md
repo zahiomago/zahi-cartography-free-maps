@@ -10,5 +10,5 @@ This is a free module for Foundry VTT with the free maps that you can find on my
 	🚧 🚀 project in development...  🚧
 </p>
 
-![Manifest](https://img.shields.io/badge/•-Manifest-orange)
+![Manifest](img.shields.io/badge/•-Manifest-orange)
 https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json
