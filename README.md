@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/static/v1?label=Release&message=1.0.4&color=05CE78&style=flat&logo=Zahi"/>	[![License](https://img.shields.io/badge/License-CreativeCommons-blue)](https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/LICENSE)	<img src="https://img.shields.io/static/v1?label=Status&message=InDevelopment&color=7159c1&style=flat&logo=Zahi"/><br>
+<img src="https://img.shields.io/static/v1?label=Release&message=1.0.4&color=05CE78&style=flat&logo=Zahi"/>	<img src="https://img.shields.io/static/v1?label=Status&message=InDevelopment&color=7159c1&style=flat&logo=Zahi"/><br>
 
-<img src="https://i.imgur.com/794OAjt.png" alt="" class="in-content-img-cover">
+<p><img src="https://i.imgur.com/794OAjt.png" alt="banner" width="450" height="225" /></p>
 
 # Za'hi | Cartography - Free Maps
 
