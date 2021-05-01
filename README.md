@@ -12,7 +12,7 @@ This module is a free version containing the free maps that you can find on my <
 <h3>How to install:</h3>
 <p><strong>1-</strong> With the Foundry VTT open, go to the module tab, then the option to install module.</p>
 <p><img src="https://i.imgur.com/zVxsr8d.png" alt="" width="500" height="350" /></p>
-<p><strong>2-</strong> Copy the URL of the Manifest and paste it in the indicated location, then select install.</p> <strong>https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json</strong>
+<p><strong>2-</strong> Copy the URL of the Manifest and paste it in the indicated location, then select install.</p> <a href="https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json" target="_blank"><strong>https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json</strong></a>
 <p><img src="https://i.imgur.com/5Re0tA4.png" alt="" width="500" height="49" /></p>
 <p><strong>3-</strong> Within Foundry VTT you can find the module in the compendium tab</p>
 <p><img src="https://i.imgur.com/xAzf9c1.png" alt="" width="285" /><br /><img src="https://i.imgur.com/faKgp0t.png" alt="" width="285" height="633" /></p>
