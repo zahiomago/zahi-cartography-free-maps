@@ -13,5 +13,4 @@ This module is a free version containing the free maps that you can find on my <
 	🚧 🚀 project in development...  🚧
 </p>
 
-![Manifest](https://img.shields.io/badge/•-Manifest-orange)
-https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json
+![Manifest](https://img.shields.io/badge/•-Manifest-orange) <strong>https://raw.githubusercontent.com/zahiomago/zahi-cartography-free-maps/main/module.json</strong>
