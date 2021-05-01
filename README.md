@@ -4,7 +4,7 @@
 # Za'hi | Cartography - Free Maps
 
 ## Module description
-This is a free module for Foundry VTT with the free maps that you can find on my <a href="https://www.patreon.com/zahithemage" target="_blank">Patreon</a>
+This is a free module for Foundry VTT with the free maps that you can find on my <a href="https://www.patreon.com/zahithemage" target="_blank"><strong>Patreon</strong></a>
 
 <p align="center">
 	🚧 🚀 project in development...  🚧
