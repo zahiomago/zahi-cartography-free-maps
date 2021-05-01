@@ -5,7 +5,7 @@
 # Za'hi | Cartography - Free Maps
 
 ## Module description
-This module is a free version containing the free maps that you can find on my <a href="https://www.patreon.com/zahithemage" target="_blank"> <strong> Patreon </strong> </ a >.
+This module is a free version containing the free maps that you can find on my <a href="https://www.patreon.com/zahithemage" target="_blank"><strong>Patreon</strong></a>.
 Preconfigured scenes with walls and ambient sounds, giving DM more freedom to decide the rest of the settings in the way that suits him best.
 This module works independently of any other.
 
