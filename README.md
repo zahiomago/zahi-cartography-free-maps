@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/static/v1?label=Release&message=1.0.4&color=05CE78&style=flat&logo=Zahi"/>	<img src="https://img.shields.io/static/v1?label=Status&message=InDevelopment&color=7159c1&style=flat&logo=Zahi"/><br>
+<img src="https://img.shields.io/static/v1?label=Release&message=1.0.5&color=05CE78&style=flat&logo=Zahi"/>	<img src="https://img.shields.io/static/v1?label=Status&message=InDevelopment&color=7159c1&style=flat&logo=Zahi"/><br>
 
 <p><a href="https://www.patreon.com/zahithemage"><img src="https://i.imgur.com/794OAjt.png" alt="banner" width="450" height="225" /></a></p>
 
