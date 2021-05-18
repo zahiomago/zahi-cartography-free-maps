@@ -27,3 +27,5 @@ This module is a free version containing the free maps that you can find on my <
 <strong>Two more maps added:</strong>
 <br>OotA - Underground Stream
 <br>LMoP - The Goblin Ambush
+<br>
+<br>Changed file format: Jpeg to Webp
