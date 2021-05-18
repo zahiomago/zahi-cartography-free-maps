@@ -24,5 +24,5 @@ This module is a free version containing the free maps that you can find on my <
 
 ##Updates
 1.0.5 - Two more maps added:
-	OotA - Underground Stream
-	LMoP - The Goblin Ambush
+	<br>OotA - Underground Stream
+	<br>LMoP - The Goblin Ambush
